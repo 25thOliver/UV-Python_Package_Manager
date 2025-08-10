@@ -334,4 +334,5 @@ uv self update  # Updates UV to the latest version
 - **[UV GitHub Discussions](https://github.com/astral-sh/uv/discussions)** - User questions and feature requests
 
 **Note:** This article was written based on UV version 0.8.x. Commands and features may evolve. Always refer to the official documentation for the latest information. 
+
 [Check the same published article](https://dev.to/oliver_samuel_028c6f65ad6/uv-the-next-generation-python-package-manager-13pa)
